@@ -1,0 +1,63 @@
+
+h1 {
+    position: absolute;
+    margin-left: 10px;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+#searchBar {
+    float: right;
+    margin-top: 30px;
+    margin-right: 10px;
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    float:left;
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#plot{
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+#header{
+     height: 90px;
+     margin: 0;
+     background : #dfa0db;
+ }
+
+#book{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 300px;
+    height: 100px;
+    display: inline-block;
+}
+
+#books{
+    margin: 20px;
+    background : white;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#footer{
+    height: 30px;
+    margin: 0;
+    background : #dfa0db;
+}
